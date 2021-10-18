@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
+      "name": "Anime Search",
       "live": "https://app.herokuapp.com/whatever",
       "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://i.imgur.com/ALQERdU.png"
     },
     {
-      "name": "project2",
+      "name": "We Are Winning",
       "live": "https://app.netlify.app/whatever",
       "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://i.imgur.com/q7ZgnpF.png"
     }
   ]
